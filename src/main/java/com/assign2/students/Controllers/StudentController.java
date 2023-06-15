@@ -28,7 +28,7 @@ public class StudentController {
         System.out.println("Getting all students");
         List<Student> student = studentRepo.findAll();
         model.addAttribute("st", student);
-        return "student/showStudent.html";
+        return "student/showstudent.html";
     }
 
     /**
