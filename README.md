@@ -14,6 +14,7 @@ Create
 1.	Click “Add a student” button to launch the form to be filled in
 2.	Fill in student information and click “Create” 
 3.	Go back to Home page without saving by pressing “Back Home without update”
+
 Update/Delete
 1.	Click on student icon to be updated or deleted
 2.	Click the “Show Details” button to navigate to the student detail page
